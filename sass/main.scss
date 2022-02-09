@@ -1,0 +1,21 @@
+@import "./utils/vars";
+@import "./base/reset";
+@import "./base/common";
+@import "./utils/hidden";
+
+// components //
+@import "./components/container";
+@import "./components/link-decor";
+@import "./components/button";
+@import "./components/modal";
+
+// layout //
+
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/information_about_the_company";
+@import "./layout/what_are_we_doing";
+@import "./layout/our_team";
+@import "./layout/customers";
+@import "./layout/portfolio";
+@import "./layout/footer";
